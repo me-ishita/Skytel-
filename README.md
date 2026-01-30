@@ -39,6 +39,7 @@ SEO
 📌 Note: Screenshots were captured using Chrome DevTools → Lighthouse on the production build.
 
 🔍 SEO Strategy
+
 1️⃣ Meta Tags Implementation
 
 The following meta tags were implemented to improve SEO and social sharing:
