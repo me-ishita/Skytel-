@@ -210,8 +210,8 @@ Production build:
 npm run build
 npm start
 
-📁 Screenshots Folder Structure
-/screenshots
+📁 Screenshots Folder Structure/screenshots
+
  ├── performance.png
  ├── accessibility.png
  ├── best-practices.png
